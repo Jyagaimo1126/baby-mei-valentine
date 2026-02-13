@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/baby-mei-valentine/static/css/main.2ad592c5.css",
+    "main.js": "/baby-mei-valentine/static/js/main.a9393e4f.js",
+    "index.html": "/baby-mei-valentine/index.html",
+    "main.2ad592c5.css.map": "/baby-mei-valentine/static/css/main.2ad592c5.css.map",
+    "main.a9393e4f.js.map": "/baby-mei-valentine/static/js/main.a9393e4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ad592c5.css",
+    "static/js/main.a9393e4f.js"
+  ]
+}
